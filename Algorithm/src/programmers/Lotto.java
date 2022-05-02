@@ -1,5 +1,4 @@
 package programmers;
-
 import java.util.Arrays;
 
 public class Lotto {
@@ -44,7 +43,5 @@ public class Lotto {
 			return answer;
 		}
 	}
-	
-	
 
 }
