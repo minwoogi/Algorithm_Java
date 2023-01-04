@@ -23,7 +23,7 @@ public class Baekjoon_2108 {
 
 		System.out.println((int) Math.round((double) sum / N)); // 1.»ê¼úÆò±Õ
 		Arrays.sort(arr);
-		System.out.println(arr[arr.length / 2 + 1]); // 2.Áß¾Ó°ª
+		System.out.println(arr[arr.length / 2]); // 2.Áß¾Ó°ª
 
 		int[] minus = new int[4002];
 		int[] plus = new int[4001];
