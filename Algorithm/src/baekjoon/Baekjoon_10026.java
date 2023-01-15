@@ -36,7 +36,7 @@ public class Baekjoon_10026 {
 				}
 			}
 		}
-		
+
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				visited[i][j] = false;
@@ -47,19 +47,16 @@ public class Baekjoon_10026 {
 		}
 
 		int count2 = 0;
-		
+
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				if (!visited[i][j]) {
 					dfs(i, j);
-					count2 ++;
+					count2++;
 				}
 			}
 		}
-		
-		
 
-		
 		System.out.print(count1 + " " + count2);
 
 	}
