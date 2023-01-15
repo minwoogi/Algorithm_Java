@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.StringTokenizer;
 
 public class Baekjoon_2583 {
-	
+
 	// * 백준2583 영역 구하기 * //
 
 	static int M, N, K, count;
