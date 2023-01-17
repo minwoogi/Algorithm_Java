@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class Baekjoon_11279 {
+public class BJ_11279 {
 
 	// * 백준11279 최대 힙 * //
 

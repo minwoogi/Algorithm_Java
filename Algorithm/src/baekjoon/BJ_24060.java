@@ -3,7 +3,7 @@ package baekjoon;
 import java.io.*;
 import java.util.*;
 
-public class Baekjoon_24060 {
+public class BJ_24060 {
 
 	/**
 	 * Created by minwoogi on 2022/12/26 알고리즘 수업 -병합 정렬 1

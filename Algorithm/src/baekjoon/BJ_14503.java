@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Baekjoon_14503 {
+public class BJ_14503 {
 
 	// * 백준14503 로봇청소기 * //
 	static int y, x, count;

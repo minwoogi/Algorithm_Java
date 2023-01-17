@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Baekjoon_10026 {
+public class BJ_10026 {
 
 	// * 백준10026 적록색약 * //
 

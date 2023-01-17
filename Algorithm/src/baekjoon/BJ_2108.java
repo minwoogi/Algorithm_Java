@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.io.IOException;
 
-public class Baekjoon_2108 {
+public class BJ_2108 {
 
 	public static void main(String[] args) throws IOException {
 

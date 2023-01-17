@@ -2,7 +2,7 @@ package baekjoon;
 
 import java.util.Scanner;
 
-public class Baekjoon_25642 {
+public class BJ_25642 {
 
 	// * 백준25642 젓가락 게임 * //
 

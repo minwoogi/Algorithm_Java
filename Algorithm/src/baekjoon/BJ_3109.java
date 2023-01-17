@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class baekjoon_3109 {
+public class BJ_3109 {
 
 	static String[][] map;
 	static int R, C;

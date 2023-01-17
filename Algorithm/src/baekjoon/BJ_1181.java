@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Baekjoon_1181 {
+public class BJ_1181 {
 
 	/**
 	 * Created by minwoogi on 2022/12/28 단어 정렬

@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Baekjoon_1697 {
+public class BJ_1697 {
 
 	// * 백준1697 숨바꼭질 * //
 

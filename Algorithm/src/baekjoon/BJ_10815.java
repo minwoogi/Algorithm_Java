@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Baekjoon_10815 {
+public class BJ_10815 {
 
 	// * 백준10815 숫자 카드 * //
 

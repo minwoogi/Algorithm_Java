@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Baekjoon_2468 {
+public class BJ_2468 {
 
 	// * 백준2468 안전 영역 * //
 

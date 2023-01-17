@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Baekjoon_1260 {
+public class BJ_1260 {
 
 	// * πÈ¡ÿ1260 DFSøÕ BFS * //
 

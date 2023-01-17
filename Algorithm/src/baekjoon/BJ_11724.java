@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Baekjoon_11724 {
+public class BJ_11724 {
 
 	// * 백준11724 연결 요소의 개수 * //
 

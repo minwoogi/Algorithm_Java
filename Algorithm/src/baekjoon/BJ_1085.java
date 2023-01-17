@@ -2,7 +2,7 @@ package baekjoon;
 
 import java.util.Scanner;
 
-public class Baekjoon_1085 {
+public class BJ_1085 {
 
 	// * 백준1085 직사각형에서 탈출 * //
 

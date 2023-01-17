@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Baekjoon_5014 {
+public class BJ_5014 {
 
 	// * 백준5014 스타트링크 * //
 
