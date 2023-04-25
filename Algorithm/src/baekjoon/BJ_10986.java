@@ -14,12 +14,12 @@ public class BJ_10986 {
 
 		int N = Integer.parseInt(st.nextToken());
 		int M = Integer.parseInt(st.nextToken());
-		int count = 0;
+		long count = 0;
 		long[] prefixSum = new long[N + 1];
 		long[] cnt = new long[M];
 
 		st = new StringTokenizer(br.readLine());
-		for (int i = 1; i < N+1; i++) {
+		for (int i = 1; i < N + 1; i++) {
 			prefixSum[i] = (prefixSum[i - 1] + Integer.parseInt(st.nextToken())) % M;
 			if (prefixSum[i] == 0) {
 				count++;
@@ -30,11 +30,9 @@ public class BJ_10986 {
 
 		for (int i = 0; i < M; i++) {
 			if (cnt[i] > 1) {
-				count += (cnt[i] * (cnt[i] - 1)) / 2;
+				count += (cnt[i] * (cnt[i] - 1) / 2);
 			}
-
 		}
-
 		System.out.println(count);
 
 	}
