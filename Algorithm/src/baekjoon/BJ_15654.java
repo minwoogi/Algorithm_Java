@@ -56,7 +56,6 @@ public class BJ_15654 {
 				backTracking(count + 1);
 				visited[i] = false;
 			}
-
 		}
 	}
 
