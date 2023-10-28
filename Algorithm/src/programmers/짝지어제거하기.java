@@ -1,5 +1,17 @@
 package programmers;
 
-public class Â¦Áö¾îÁ¦°ÅÇÏ±â {
+public class ì§ì§€ì–´ì œê±°í•˜ê¸° {
+    public int solution(String s)
+    {
 
+       Stack<Character> stack = new Stack<>();
+
+        for (char ch : s.toCharArray()) {
+            if (!stack.isEmpty() && stack.peek() == ch)
+                stack.pop();
+            else
+                stack.push(ch);
+        }
+        return stack.isEmpty() ? 1 : 0;
+    }
 }
